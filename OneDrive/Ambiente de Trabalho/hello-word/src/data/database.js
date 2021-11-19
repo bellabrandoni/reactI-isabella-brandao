@@ -1,30 +1,30 @@
 const filmes = [
     {
       id: 1,
-      nome: "The Social Dilemma",
-      genero: "documentário",
-      capa: "https://static.wixstatic.com/media/00d1a3_e8a01dfe8cf0489d8ed6001d1ab6286f~mv2.jpeg/v1/fill/w_1000,h_1500,al_c,q_90,usm_0.66_1.00_0.01/00d1a3_e8a01dfe8cf0489d8ed6001d1ab6286f~mv2.jpeg"
+      nome: "Pride & Prejudice",
+      genero: "Romance - baseado na obra de Jane Austen",
+      capa: "https://upload.wikimedia.org/wikipedia/pt/8/85/Pride_and_Prejudice_2005.jpg"
 
     },
     {
       id: 2,
-      nome: "Us",
-      genero: "terror",
-      capa: "https://upload.wikimedia.org/wikipedia/en/0/00/Us_%282019%29_theatrical_poster.png"
+      nome: "Entrevista com o vampiro",
+      genero: "Terror / Suspense - baseano na obra de Anne Rice",
+      capa: "https://upload.wikimedia.org/wikipedia/pt/7/7c/Interview_with_a_Vampire.jpg"
 
     },
     {
       id: 3,
-      nome: "Bubble Boy",
-      genero: "comédia romântica",
-      capa: "https://images-na.ssl-images-amazon.com/images/I/51hCG-ULh5L._AC_SY445_.jpg"
+      nome: "Brilho Eterno de uma Mente sem Lembranças",
+      genero: "Romance/Ficção cientifica",
+      capa: "https://upload.wikimedia.org/wikipedia/pt/a/af/Eternal_Sunshine_of_the_Spotless_Mind.jpg"
 
     },
     {
       id: 4,
-      nome: "Get Out",
-      genero: "terror",
-      capa: "https://miro.medium.com/max/675/0*afTCZX9mMynUvqi2.jpg"
+      nome: "Click",
+      genero: "comédia",
+      capa: "https://macmagazine.com.br/wp-content/uploads/2013/09/19-click.jpg"
 
     }
 
