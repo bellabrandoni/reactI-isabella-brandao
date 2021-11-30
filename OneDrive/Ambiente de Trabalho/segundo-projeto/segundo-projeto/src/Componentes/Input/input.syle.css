@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500;700&family=Nunito+Sans:wght@600&family=Pacifico&family=Quicksand:wght@300;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'nunito';
+} 
+h1{
+    padding: 50px;
+    color: #cc2787;
+    
+
+}
+.container{
+    display:contents;
+    flex-direction:row;
+    background-color: blue;
+}
+
+.repositorio{
+    
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+    border: 2px solid #cc2787;
+    border-radius: 20px ;
+    display: inline-block;
+    margin: 50px;
+    padding: 10px;
+    padding-top: 12px;
+    box-shadow: 0 10px 20px rgba(223, 27, 141, 0.986);
+
+}
+
+.repositorio:hover{
+
+    transform: translateY(-5px); 
+   box-shadow: 0 10px 20px rgba(223, 27, 141, 0.986);
+      
+       
+}
+
+  
+
+input{
+    
+    display: flex;
+    margin-left: 500px;
+    width: 300px;
+    height: 20px;
+    border-radius: 20px;
+    border: 2px solid #cc2787;
+    padding: 13px;
+}
+input::placeholder{
+    font-size: 20px;
+    color: rgb(173, 169, 173);
+    
+   
+}
+p {
+    text-align: center;
+    
+}
+footer {
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    background-color: #070707ed;
+}
+.s2 {
+    color: rgb(196, 26, 26);
+}
